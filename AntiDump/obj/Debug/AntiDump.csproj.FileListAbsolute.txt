@@ -1,6 +1,0 @@
-C:\Users\fxzhn\RiderProjects\AntiDump\AntiDump\bin\Debug\AntiDump.exe
-C:\Users\fxzhn\RiderProjects\AntiDump\AntiDump\bin\Debug\AntiDump.pdb
-C:\Users\fxzhn\RiderProjects\AntiDump\AntiDump\obj\Debug\AntiDump.csproj.AssemblyReference.cache
-C:\Users\fxzhn\RiderProjects\AntiDump\AntiDump\obj\Debug\AntiDump.csproj.CoreCompileInputs.cache
-C:\Users\fxzhn\RiderProjects\AntiDump\AntiDump\obj\Debug\AntiDump.exe
-C:\Users\fxzhn\RiderProjects\AntiDump\AntiDump\obj\Debug\AntiDump.pdb
